@@ -1,0 +1,22 @@
+{
+  "wheel_id": 813,
+  "structure": "umbrella",
+  "slug": "retainingwallcontractors-153",
+  "project": "retaining-wall-contractors-what-to-expect-2a9def78ae06f4e33164e",
+  "parent_t1_ref": "retainingwallcontractors-012",
+  "node_role": "buffer",
+  "money_target": "retainingwallcontractors.com.au",
+  "primary_kw": "retaining wall contractors what to expect",
+  "intended_url": "https://sitesau.github.io/retainingwallcontractors-153/",
+  "tier": "T2",
+  "writeback_nonce": "e0c886645ac47465",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/retaining-wall-contractors-012/",
+      "anchor": "Retaining Wall Contractors: A Practical Comparison Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
